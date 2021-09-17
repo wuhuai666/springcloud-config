@@ -1,5 +1,3 @@
  config:
-      server:
-        git:
-          uri: git@github.com:zzyybs/springcloud-config.git #GitHub上面的git仓库名字
+     info: git@github.com:zzyybs/springcloud-config.git #GitHub上面的git仓库名字
 
